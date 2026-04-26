@@ -1,6 +1,6 @@
-# 🏢 Projet Paris-Duchesse : Optimisation Logistique sous Contraintes
+# Projet Paris-Duchesse : Optimisation Logistique sous Contraintes
 
-## 📖 Contexte
+## Contexte
 Ce dépôt contient notre solution pour le projet "Paris-Duchesse", réalisé dans le cadre du cours Mathematics of Data Science (M1 IDD) à l'Université Paris Dauphine - PSL.
 
 L'Université Paris-Duchesse est un bâtiment rectangulaire composé de plusieurs ailes (A, B, C, D) qui doivent subir des rénovations successives en 5 phases. L'objectif principal de ce projet est de planifier les déménagements du personnel (réparti en 5 services : Présidence, Étudiants, Optimisation, Informatique Théorique, et Mathématiques) depuis une configuration initiale (Phase 0) vers une configuration cible (Phase 5), tout en **minimisant le nombre total de mouvements**.
